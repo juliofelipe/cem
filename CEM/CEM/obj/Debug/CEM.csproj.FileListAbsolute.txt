@@ -1,0 +1,338 @@
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\acdbmgd.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\julio\OneDrive\Documents\Documentos\Visual Studio 2017\Projects\CEM\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM 02-07\CEM\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM 02-07\CEM - R2\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-04-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-05-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.SplashScreen.resources
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\obj\Debug\CEM.CEMSobre.resources
+C:\Users\hjd286\Desktop\CEM-06-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.CEMSobre.resources
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.SplashScreen.resources
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\julio\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.CEMSobre.resources
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.SplashScreen.resources
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEM-07-07\CEM\CEM\obj\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe.config
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\CEM.pdb
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcDx.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\Acdbmgd.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\accoremgd.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\acmgd.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AdWindows.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AdUiPalettes.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcDxPublishUi.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcMr.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcWindows.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcTcMgd.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcCui.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\AcMNUParser.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\Chart3DLib.pdb
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\Acdbmgd.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.CEMSobre.resources
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.Principal.resources
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.SplashScreen.resources
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.exe
+C:\Users\hjd286\Desktop\CEMCalc Versão 1.0\CEM-07-07\CEM\CEM\obj\Debug\CEM.pdb
